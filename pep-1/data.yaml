@@ -1,0 +1,13 @@
+names:
+- diseased
+- healthy
+nc: 2
+roboflow:
+  license: Private
+  project: pep-6wr69
+  url: https://app.roboflow.com/emmanuel/pep-6wr69/1
+  version: 1
+  workspace: emmanuel
+test: ../test/images
+train: pep-1/train/images
+val: pep-1/valid/images

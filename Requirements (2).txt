@@ -1,0 +1,6 @@
+firebase_admin==4.4
+google-cloud-storage==1.26.0
+torch
+pyyaml
+torchvision
+seaborn

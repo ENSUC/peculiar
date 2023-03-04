@@ -1,4 +1,4 @@
-firebase_admin==4.4
+firebase_admin==6.1.0
 google-cloud-storage==1.26.0
 torch
 pyyaml
